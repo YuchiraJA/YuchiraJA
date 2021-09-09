@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yuchira_J_A 👋
 
 I'm Yuchira from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like PHP and Laravel, Reat and Reat Native, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my twitter at twitter.com/yuchira_j_a or youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
