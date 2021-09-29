@@ -128,20 +128,7 @@ Loading CSS files from CDN is not recommended for production. It's better to ins
 ---
 ## 🚀 Use  
 Use component classes to build your UI.  
-```html
-<a class="btn">Hello!</a>
-```
-```html
-<input type="checkbox" class="checkbox"/>
-```
-```html
-<input type="checkbox" class="toggle"/>
-```
-```html
-<div class="alert alert-success">
-  Message sent successfully 
-</div>
-```
+
 
 👉 [See all components][docs-url]  
 🎲 [Try it online][tw-play-url]  
@@ -158,84 +145,8 @@ See the official site:
 Read the documents for more info:  
 [ [Read contribution guide](https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md) ]
 
----
-## List of Components
-<details>
-<summary>
-  show / hide
-</summary>
 
-- [x] Alert
-- [x] Artboard
-- [ ] App bar
-- [x] Avatar
-  - [x] Avatar group
-- [x] Badge
-- [ ] Banner
-- [x] Breadcrumb
-- [x] Button
-  - [x] Button group
-- [ ] Calendar
-- [x] Carousel
-- [x] Card
-- [ ] Chat bubble
-- [x] Collapse (Accordion)
-- [ ] Comment
-- [x] Countdown
-- [ ] Cover
-- [x] Divider
-- [x] Drawer
-- [ ] Empty placeholder
-- [x] Footer
-- [ ] Form
-  - [x] Select
-  - [x] Text input
-  - [x] Text area
-  - [x] Checkbox
-  - [x] Radio
-  - [x] Range slider
-  - [ ] Rating
-  - [x] Toggle
-  - [ ] Upload
-- [x] Hero
-- [x] Indicator
-- [x] Kbd
-- [x] Link
-- [ ] Loading
-- [x] Menu
-- [ ] Mockup
-  - [ ] Browser
-  - [x] Code
-  - [x] Phone
-  - [x] Window
-- [x] Navbar
-- [x] Mask
-- [x] Modal
-- [x] Pagination
-- [x] Progress
-- [x] Stack
-- [x] Stat
-- [x] Steps
-- [ ] Tag
-- [x] Table
-- [x] Tabs
-- [ ] Timeline
-- [ ] Toast
-- [x] Tooltip
-- [ ] Treeview
 
-</details>
-
----
-  
-<div align="center">
-  
-  
-༼ つ ◕_◕ ༽つ  Please share  
-  
-[![][tweet]][tweet-url]  
-
-</div>
 
 
 
