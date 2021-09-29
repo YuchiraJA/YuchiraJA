@@ -108,7 +108,7 @@ Loading CSS files from CDN is not recommended for production. It's better to ins
 Use component classes to build your UI.  
 
 
-👉 [See all components][docs-url]  
+👉 [See all components][www.google.com]  
 🎲 [Try it online][tw-play-url]  
 
 ---
