@@ -112,6 +112,8 @@ Use component classes to build your UI.
 🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
 👉 [See all components][https://www.instagram.com/yjasoft/]  
 🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
+🎲 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
+https://yjasoft.blogspot.com/
 [https://www.instagram.com/yjasoft/]
 
 ---
