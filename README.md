@@ -108,8 +108,11 @@ Loading CSS files from CDN is not recommended for production. It's better to ins
 Use component classes to build your UI.  
 
 
-👉 [See all components][www.google.com]  
-🎲 [Try it online][tw-play-url]  
+👉 [See all components][https://www.facebook.com/YJASoft/]  
+🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
+👉 [See all components][https://www.instagram.com/yjasoft/]  
+🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
+[https://www.instagram.com/yjasoft/]
 
 ---
 
