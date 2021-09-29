@@ -47,7 +47,6 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 <div align="center">
 
-[![][logo-url]][docs-url]  
 
 **Tailwind CSS Components**  
 Adds component classes like `btn`, `card` and more to Tailwind CSS
