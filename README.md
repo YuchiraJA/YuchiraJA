@@ -92,24 +92,7 @@ Adds component classes like `btn`, `card` and more to Tailwind CSS
 
 ## 📀 Install now!  
 
-```bash
-npm i daisyui
-```
 
-Then add DaisyUI to your `tailwind.config.js`  
-[ [Read more][docs-url-install] ]
-```js
-module.exports = {
-
-  plugins: [
-    require('daisyui'),
-  ],
-
-}
-```
-
-
-<details>
 <summary>
   Or use a CDN
 </summary>
