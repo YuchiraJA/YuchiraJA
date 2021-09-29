@@ -66,7 +66,7 @@ Adds component classes like `btn`, `card` and more to Tailwind CSS
 
 [![][banner-url]][docs-url]  
 
-# daisyUI  
+# daisI  
 [![][build]][build-url] [![][npm]][npm-url] [![][number-of-components]][docs-url] [![][install-size]][install-size-url]  
 [![][dl]][npm-url] [![][stars]][gh-url] [![][commit]][gh-url] [![][license]][license-url]   
 
