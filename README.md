@@ -58,10 +58,10 @@ Adds component classes like `btn`, `card` and more to Tailwind CSS
 
 # YJA 
 
-- 👉 [ [See all components][docs-url] ]
-- 📘 Documents: [daisyui.com][docs-url]
-- 🎲 Try it online: [Tailwind Play][tw-play-url] | [Codepen][codepen-url]
-- 📦 Source: [GitHub][gh-url] | [NPM][npm-url] | [Unpkg][unpkg-url] | [JSdeliver][jsdeliver-url] | [cdnjs][cdnjs-url]
+- 👉 [ [][] ]
+- 📘 ..... : [][]
+- 🎲 .... : [][] | [][]
+- 📦 .... : [][] | [][] | [][] | [][] | [][]
 
 ---
 
