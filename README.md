@@ -113,14 +113,12 @@ Use component classes to build your UI.
 👉 [See all components][https://www.instagram.com/yjasoft/]  
 🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
 🎲 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
-https://yjasoft.blogspot.com/
-[https://www.instagram.com/yjasoft/]
+
 
 ---
 
 ## 📘 Documents + Examples  
 See the official site:  
-[ [daisyui.com][docs-url] ↗︎ ]
 
 ---
 
