@@ -75,58 +75,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 **Introduction......**  
 ........... `yja`, `yja` .............
-
-
-
 </div>
-
-
-# YJA 
-
-- 👉 [ [][] ]
-- 📘 ..... : [][]
-- 🎲 .... : [][] | [][]
-- 📦 .... : [][] | [][] | [][] | [][] | [][]
-
----
-
-## 🌼 ............  
-<details>
-  
-<summary>
-  show / hide
-</summary>
-
-- **Tailwind CSS plugin**  
-  DaisyUI is a Tailwind CSS plugin. Install it, add it to your `tailwind.config.js` file.
-- **Component classes**  
-  Adds component classes to Tailwind. Classes like `btn`, `card`,… So you will end up with a cleaner HTML.
-- **Semantic color names**  
-  Adds color names like `primary`, `secondary`, `accent`,….
-- **Customizable**  
-  You can customize the design of components with Tailwind utility classes and CSS variables.
-- **Themeable**  
-  Add multiple themes and customize colors. You can even set a theme for a specific section of your page.
-- **RTL supported**  
-  Enable `rtl` config for right to left layouts.
-- **Pure CSS**  
-  No script file, no dependencies. 2KB gzip!
-
-</details>
-
----
-
-## 📀 ........... 
-
-
-<summary>
-.............
-</summary>
-
-......................... 
-
-
-</details>
 
 ---
 ## 🚀 ...........
