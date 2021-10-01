@@ -43,7 +43,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 <a href="https://www.linkedin.com/in//yuchira-athukorala-301012b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
 
-<!-- 
+ 
 <span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span> 
 <p align="left">
 <a href="https://codepen.io/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shan-joel" height="30" width="40" /></a> 
