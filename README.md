@@ -120,7 +120,9 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 ## 📘 MY PROJECTS 
 See the official site:  ..........
- 👉 [See all components][https://www.facebook.com/YJASoft/]  
+ 
+ 
+👉 [See all components][https://www.facebook.com/YJASoft/]  
 🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
 👉 [See all components][https://www.instagram.com/yjasoft/]  
 🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
@@ -128,7 +130,7 @@ See the official site:  ..........
 
 
 ---
-
+<!-- 
 
 Read the documents for more info:  
 [ [](https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md) ]
@@ -139,7 +141,7 @@ Read the documents for more info:
 ### 🤝🏻 &nbsp;Connect with Me
 ## 🤝 Contributing  
 
-<!-- <span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
+<span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
 <span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
 
