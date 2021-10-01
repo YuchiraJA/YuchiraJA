@@ -69,8 +69,8 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/YuchiraJA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in//yuchira-athukorala-301012b6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/YuchiraAthukorala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/yuchira_j_a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yuchira_j_a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/channel/UCahwkZPInW6phAxhQH1Lk6Q)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yjasoft.wordpress.com/)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)  -->
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YuchiraJAshow_icons=true&thee=algolia&include_all_commits=true&count_private=true"/> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -83,7 +83,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 <p align="center">
 <a href="https://github.com/YuchiraJA">
  <!--  <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />   -->
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YuchiraJAshow_icons=true&thee=algolia&include_all_commits=true&count_private=true"/> 
+ 
   <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/> 
 </a>
 </p>
