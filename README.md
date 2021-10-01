@@ -21,7 +21,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning React JS, Node JS  
 - 📫 How to reach me: yuchira.athukorala@gmail.com  
-- 
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -40,10 +40,13 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 
 
-<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span> -->
-<p align="left">
+
 <a href="https://www.linkedin.com/in//yuchira-athukorala-301012b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
-<!--<a href="https://codepen.io/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shan-joel" height="30" width="40" /></a> 
+
+<!-- 
+<span width="25%"><a href="https://www.behance.net/shan-joel"><img src="https://img.shields.io/badge/-Behance-red"/>Behance</a></span> 
+<p align="left">
+<a href="https://codepen.io/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shan-joel" height="30" width="40" /></a> 
 <a href="https://stackoverflow.com/users/15304799/shan-joel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15304799/shan-joel" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/it20210892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/it20210892" height="30" width="40" /></a>
 <a href="https://leetcode.com/shanjoel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shanjoel/" height="30" width="40" /></a>
