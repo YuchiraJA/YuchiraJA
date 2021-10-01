@@ -38,7 +38,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-
+---
 
 <!-- 
 <a href="https://www.linkedin.com/in//yuchira-athukorala-301012b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shan-joel/" height="30" width="40" /></a>
@@ -114,17 +114,18 @@ Skills: Laravel / React JS / JS / HTML / CSS
 .......
 
 -->
-👉 [See all components][https://www.facebook.com/YJASoft/]  
-🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
-👉 [See all components][https://www.instagram.com/yjasoft/]  
-🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
-🎲 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
 
 
 ---
 
 ## 📘 MY PROJECTS 
 See the official site:  ..........
+ 👉 [See all components][https://www.facebook.com/YJASoft/]  
+🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
+👉 [See all components][https://www.instagram.com/yjasoft/]  
+🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
+🎲 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
+
 
 ---
 
