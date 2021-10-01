@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 
 -->
-
+<div align="center">
 
 ### Hi there 👋, I'm Yuchira_J_A
 #### I am Developer | Designer | Problem Solver | YouTuber | 
@@ -90,7 +90,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 
 
-<div align="center">
+
 
 <!--
 **Introduction......**  
