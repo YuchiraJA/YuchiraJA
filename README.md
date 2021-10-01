@@ -77,7 +77,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)  
 
 
-   <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <!-- <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> -->
 
 
 
@@ -92,16 +92,16 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 <div align="center">
 
-
+<!--
 **Introduction......**  
 ........... `yja`, `yja` .............
 </div>
 
 ---
 ## 🚀 ...........
-..............
+.......
 
-
+-->
 👉 [See all components][https://www.facebook.com/YJASoft/]  
 🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
 👉 [See all components][https://www.instagram.com/yjasoft/]  
@@ -116,7 +116,7 @@ See the official site:  ..........
 
 ---
 
-## 🤝 Contributing  
+
 Read the documents for more info:  
 [ [](https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md) ]
 
@@ -133,6 +133,7 @@ Read the documents for more info:
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
+## 🤝 Contributing  
 
 <!-- <span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
