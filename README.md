@@ -18,9 +18,9 @@ I'm Yuchira from Sri Lanka, and I do content on Design and Development. I really
 
 Skills: Laravel / React JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on My own company 
-- 🌱 I’m currently learning React JS, Node JS  
-- 📫 How to reach me: yuchira.athukorala@gmail.com  
+🔭 I’m currently working on My own company 
+🌱 I’m currently learning React JS, Node JS  
+📫 How to reach me: yuchira.athukorala@gmail.com  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -76,6 +76,17 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)  
 
+ 
+ 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/YuchiraJA">
+   <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YuchiraJAshow_icons=true&thee=algolia&include_all_commits=true&count_private=true"/> -->
+  <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/> 
+</a>
+</p>
 
   <!-- <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> -->
 
@@ -122,15 +133,6 @@ Read the documents for more info:
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/YuchiraJA">
-   <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YuchiraJAshow_icons=true&thee=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/> 
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 ## 🤝 Contributing  
