@@ -87,7 +87,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
   <img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/>
    </td>
    <td>
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="185em" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA(https://github.com/anuraghazra/github-readme-stats)">
    </td>
    </tr>
   </table>
@@ -100,7 +100,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
  
  
 
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
