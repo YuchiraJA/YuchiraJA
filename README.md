@@ -72,14 +72,14 @@ Skills: Laravel / React JS / JS / HTML / CSS
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)  -->
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true) 
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)  
-
  
  
-### ⚙️ &nbsp;GitHub Analytics
+### 🚀  &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/YuchiraJA">
@@ -123,10 +123,10 @@ See the official site:  ..........
  
  
 👉 [See all components][https://www.facebook.com/YJASoft/]  
-🎲 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
+👉 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
 👉 [See all components][https://www.instagram.com/yjasoft/]  
-🎲 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
-🎲 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
+👉 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
+👉 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
 
 
 ---
