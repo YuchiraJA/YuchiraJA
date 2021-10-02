@@ -81,12 +81,9 @@ Skills: Laravel / React JS / JS / HTML / CSS
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)  -->
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true) 
  
-  <img height="185em" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/> 
- 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)  
- 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/>
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </p>
  
