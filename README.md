@@ -146,9 +146,6 @@ See the official site:  ..........
 Read the documents for more info:  
 [ [](https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md) ]
 
-
-
-
 ### 🤝🏻 &nbsp;Connect with Me
 ## 🤝 Contributing  
 
