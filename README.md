@@ -92,6 +92,7 @@ Skills: Laravel / React JS / JS / HTML / CSS
  
  
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
