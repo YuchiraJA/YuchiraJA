@@ -107,13 +107,6 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 
 
-
-
-
-
-
-
-
 <!--
 **Introduction......**  
 ........... `yja`, `yja` .............
