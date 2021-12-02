@@ -103,7 +103,9 @@ See the official sites and links:  ..........
  
 👉 [  IT Project - Online Institute management Web Application (Laravel/SQL/CSS/HTML)  ][ https://github.com/SLIITFacultyOfComputing/itp_projectitp2021_s2_b05_g17 ]  
  
-👉 [  YJASoft Website (WordPress/Elementor)][ https://yjasoft.com/ ]  
+👉 [  YJASoft Website (WordPress/Elementor)  ][ https://yjasoft.com/ ]  
+ 
+👉 [  Daily Task Manegement Application (Laravel/Bootstrap)  ][ https://github.com/YuchiraJA/DailyTaskApp ]  
  
 👉 [  WordPress blog site (WordPress)  ][ https://yjasoft.wordpress.com/ ]  
 
