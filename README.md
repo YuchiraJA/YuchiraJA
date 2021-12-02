@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-### Hi there 👋, I'm Yuchira_J_A
-#### I am Developer | Designer | Problem Solver | YouTuber | 
+### Hi there 👋, I'm Yuchira Athukorala
+#### I am Software Engineering Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
 
 I'm Yuchira from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like PHP and Laravel, Reat and Reat Native, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my twitter at twitter.com/yuchira_j_a or youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
