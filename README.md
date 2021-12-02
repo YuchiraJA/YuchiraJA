@@ -81,7 +81,9 @@ Skills: Laravel / React JS / JS / HTML / CSS
   <img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/>
 
 
-  
+  </a>
+</p>
+ 
   
 
 ---
@@ -105,7 +107,9 @@ See the official sites and links:  ..........
   
   
   
-  
+  <p align="center">
+
+ <a href="https://github.com/YuchiraJA">
   
   
   
