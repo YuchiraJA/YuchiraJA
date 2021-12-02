@@ -109,7 +109,7 @@ See the official site:  ..........
 👉 [OOP Project - Online Medicine Ordering Management System Web Application(Java/SQL/HTML/CSS)][https://github.com/YuchiraJA/Online-PharmacySystem---OOP-Project.git] 
 👉 [See all components][https://www.instagram.com/yjasoft/]  
 👉 [IWT Project - Online Hotel Management System Web Application(PHP/SQL/HTML/CSS/JavaScript)][https://github.com/YuchiraJA/HotelManagement-System---IWT-Project]  
-👉 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
+👉 [OOP Project - Online Medicine Ordering Management System Web Application(Java/SQL/HTML/CSS)][https://yjasoft.blogspot.com/]  
 
 
 ---
