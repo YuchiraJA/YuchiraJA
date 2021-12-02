@@ -95,12 +95,12 @@ Skills: Laravel / React JS / JS / HTML / CSS
 See the official sites and links:  ..........
  
 
-👉 [IWT Project - Online Hotel Management System Web Application(PHP/SQL/HTML/CSS/JavaScript)][https://github.com/YuchiraJA/HotelManagement-System---IWT-Project]  
-👉 [OOP Project - Online Medicine Ordering Management System Web Application(Java/SQL/HTML/CSS)][https://github.com/YuchiraJA/Online-PharmacySystem---OOP-Project.git]  
-👉 [eGuru Android Application (Java/Firebase)][https://github.com/Rajith-Singh/eGuru---MAD-Project]  
-👉 [IT Project - Online Institute management Web Application (Laravel/SQL/CSS/HTML)][https://github.com/SLIITFacultyOfComputing/itp_projectitp2021_s2_b05_g17]  
-👉 [YJASoft Website (WordPress/Elementor)][https://yjasoft.com/]  
-👉 [WordPress blog site (WordPress)][https://yjasoft.wordpress.com/]  
+👉 [  IWT Project - Online Hotel Management System Web Application(PHP/SQL/HTML/CSS/JavaScript)  ][https://github.com/YuchiraJA/HotelManagement-System---IWT-Project]  
+👉 [  OOP Project - Online Medicine Ordering Management System Web Application(Java/SQL/HTML/CSS)  ][https://github.com/YuchiraJA/Online-PharmacySystem---OOP-Project.git]  
+👉 [  eGuru Android Application (Java/Firebase)  ][https://github.com/Rajith-Singh/eGuru---MAD-Project]  
+👉 [  IT Project - Online Institute management Web Application (Laravel/SQL/CSS/HTML)  ][https://github.com/SLIITFacultyOfComputing/itp_projectitp2021_s2_b05_g17]  
+👉 [  YJASoft Website (WordPress/Elementor)][https://yjasoft.com/]  
+👉 [  WordPress blog site (WordPress)  ][https://yjasoft.wordpress.com/]  
 
 ---
   
