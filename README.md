@@ -99,29 +99,14 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 
 
-
-
-
-<!--
-**Introduction......**  
-........... `yja`, `yja` .............
-</div>
-
----
-## 🚀 ...........
-.......
-
--->
-
-
 ---
 
 ## 📘 MY PROJECTS 
 See the official site:  ..........
  
 
-👉 [ IWT Project - Online Hotel Management System Web Application (PHP/SQL/HTML/CSS/JavaScript)] [https://github.com/YuchiraJA/HotelManagement-System---IWT-Project]  
-👉 [YJA SOFT Pinterest][https://www.pinterest.com/yjasoft/]  
+👉 IWT Project - Online Hotel Management System Web Application (PHP/SQL/HTML/CSS/JavaScript) :- https://github.com/YuchiraJA/HotelManagement-System---IWT-Project 
+👉OOP Project - Online Medicine Ordering Management System Web Application (Java/SQL/HTML/CSS) :- https://github.com/YuchiraJA/Online-PharmacySystem---OOP-Project.git 
 👉 [See all components][https://www.instagram.com/yjasoft/]  
 👉 [YJA SOFT Pinterest][https://twitter.com/yja_soft]  
 👉 [YJA SOFT Pinterest][https://yjasoft.blogspot.com/]  
