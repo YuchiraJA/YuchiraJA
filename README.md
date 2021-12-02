@@ -77,17 +77,38 @@ Skills: Laravel / React JS / JS / HTML / CSS
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true) 
 
   
-
-
-
-  
-  
-
-  
   
   <img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/>
 
 
+  
+  
+
+---
+
+## 📘 MY PROJECTS 
+See the official sites and links:  ..........
+ 
+
+👉 [IWT Project - Online Hotel Management System Web Application(PHP/SQL/HTML/CSS/JavaScript)][https://github.com/YuchiraJA/HotelManagement-System---IWT-Project]  
+👉 [OOP Project - Online Medicine Ordering Management System Web Application(Java/SQL/HTML/CSS)][https://github.com/YuchiraJA/Online-PharmacySystem---OOP-Project.git]  
+👉 [eGuru Android Application (Java/Firebase)][https://github.com/Rajith-Singh/eGuru---MAD-Project]  
+👉 [IT Project - Online Institute management Web Application (Laravel/SQL/CSS/HTML)][https://github.com/SLIITFacultyOfComputing/itp_projectitp2021_s2_b05_g17]  
+👉 [YJASoft Website (WordPress/Elementor)][https://yjasoft.com/]  
+👉 [WordPress blog site (WordPress)][https://yjasoft.wordpress.com/]  
+
+---
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)
  
