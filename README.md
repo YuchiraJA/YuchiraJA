@@ -24,9 +24,6 @@ Skills: Laravel / React JS / JS / HTML / CSS
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -36,8 +33,6 @@ Skills: Laravel / React JS / JS / HTML / CSS
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
 
 
 <!-- 
@@ -135,17 +130,15 @@ See the official site:  ..........
 ---
 <!-- 
 
-Read the documents for more info:  
-[ [](https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md) ]
 
 ### 🤝🏻 &nbsp;Connect with Me
-## 🤝 Contributing  
 
-<span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/shan-joel/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
-<span width="25%"><a href="mailto:shan.joeld@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
+<span style="text-align: center;" width="25%" ><a href="https://www.linkedin.com/in/yuchira-athukorala-301012b6/"><img src="https://img.shields.io/badge/-Linkedin-blue"/> Linkein</a> </spam>
 
-<span width="25%"><a href="https://www.facebook.com/people/Joel-Dharmagunarathne/100009295764137/"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span>
+<span width="25%"><a href="mailto:yuchira.athukorala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
+
+<span width="25%"><a href="https://www.facebook.com/YuchiraAthukorala"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span>
 
 
 
