@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Hi there 👋, I'm Yuchira Athukorala
-#### I am Software Engineering and IT Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
+#### I am IT Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
 I'm from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like PHP and Laravel, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my linkedin at linkedin.com/in/yuchira-athukorala-301012b6 or youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
 Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) / ReactJs(Basic) / NodeJs(Basic) / MySQL / Firebase / MongoDB(Basic) / Web Hosting(Basic)
