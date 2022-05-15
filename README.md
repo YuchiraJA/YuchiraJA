@@ -42,14 +42,14 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
  
  
  
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=harsha19980324&show_icons=true&locale=en&layout=compact" alt="harsha19980324" /></p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YuchiraJA&show_icons=true&locale=en&layout=compact" alt="YuchiraJA" /></p>
 
 <table>
 <th>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha19980324&" alt="harsha19980324" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuchiraJA&" alt="YuchiraJA" /></p>
 </th>
 <th>
-<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=harsha19980324&show_icons=true&locale=en" alt="harsha19980324" /></p>
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true&locale=en" alt="YuchiraJA" /></p>
 </th>
 </table>
  
