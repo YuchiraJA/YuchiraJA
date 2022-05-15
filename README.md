@@ -51,10 +51,10 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
  
 <table>
  <th>
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YuchiraJA&show_icons=true&locale=en&layout=compact" alt="YuchiraJA" /></p><
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YuchiraJA&show_icons=true&locale=en&layout=compact" alt="YuchiraJA" /></p>
 </th>
 <th>
-<p><img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/></p>
+<p><img height="100%" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/></p>
 </th>
  </table>
  <table>
