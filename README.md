@@ -126,7 +126,7 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
 
  ---
 
-## 📘 MY PROJECTS 
+<!-- ## 📘 MY PROJECTS 
 See the official sites and links:  ..........
  
 
@@ -144,7 +144,7 @@ See the official sites and links:  ..........
  
 👉 [  WordPress blog site (WordPress)  ][ https://yjasoft.wordpress.com/ ]  
 
----
+--- -->
   
   
   
@@ -156,7 +156,7 @@ See the official sites and links:  ..........
  <p align="center">
  <a href="https://github.com/YuchiraJA">
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA)
+<!--  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YuchiraJA) -->
  
 </a>
 </p>
@@ -164,7 +164,7 @@ See the official sites and links:  ..........
  
  
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuchiraJA)](https://github.com/anuraghazra/github-readme-stats) -->
 
  
 
