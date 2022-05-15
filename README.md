@@ -45,9 +45,17 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
  
  
  
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YuchiraJA&show_icons=true&locale=en&layout=compact" alt="YuchiraJA" /></p>
 
+    
+### 🚀  &nbsp;GitHub Analytics
+ 
 <table>
+ <th>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api/top-langs?username=YuchiraJA&show_icons=true&locale=en&layout=compact" alt="YuchiraJA" /></p><
+</th>
+<th>
+<p><img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/></p>
+</th>
 <th>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuchiraJA&" alt="YuchiraJA" /></p>
 </th>
@@ -79,25 +87,27 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 -->
-<br>
+
 
   
-### 🚀  &nbsp;GitHub Analytics
+<!-- ### 🚀  &nbsp;GitHub Analytics -->
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <!--  <a href="https://github.com/YuchiraJA"> -->
  <!--  <img height="185em" width="50%" src="https://github-readme-stats.vercel.app/api?username=YuchiraJA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />   -->
  
  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)  -->
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true) 
+ 
+ 
+<!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YuchiraJA&show_icons=true)  -->
 
   
   
-  <img height="185em" width="70%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YuchiraJA&layout=compact&langs_count=8&theme=algolia"/>
+
  
- </a>
-</p>
+<!--  </a>
+</p> -->
  
   
  
