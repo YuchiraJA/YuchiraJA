@@ -17,7 +17,7 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
 
 Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) / ReactJs(Basic) / NodeJs(Basic) / MySQL / Firebase / MongoDB(Basic) / Web Hosting(Basic)
 
-🔭 I’m currently working on My own company 
+<!-- 🔭 I’m currently working on My own company  -->
 🌱 I’m currently learning React JS, Node JS  
 📫 How to reach me: yuchira.athukorala@gmail.com  
 
