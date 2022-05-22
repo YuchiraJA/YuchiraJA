@@ -117,7 +117,7 @@ Skills: HTML / CSS / PHP / Laravel / Java / Bootstrap / Git / JavaScript(Basic) 
   
  
  
- 
+<!--  
  
 
 ---
@@ -195,7 +195,7 @@ See the official sites and links:  ..........
  -->
 
 
-
+ -->
 
 
 
