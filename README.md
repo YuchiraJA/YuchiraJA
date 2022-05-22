@@ -147,7 +147,6 @@ See the official sites and links:  ..........
  
 👉 [  WordPress blog site (WordPress)  ][ https://yjasoft.wordpress.com/ ]  
 
---- -->
   
   
   
@@ -192,10 +191,10 @@ See the official sites and links:  ..........
 <span width="25%"><a href="mailto:yuchira.athukorala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red"/>Email</a></span>
 
 <span width="25%"><a href="https://www.facebook.com/YuchiraAthukorala"><img align-items="center" src="https://img.shields.io/badge/-Facebook-blue"/> Facebook</a> </span> -->
- -->
 
 
- -->
+
+
 
 
 
