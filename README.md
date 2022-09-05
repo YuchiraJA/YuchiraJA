@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 #### I am an IT Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
 I'm from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like PHP and Laravel, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my linkedin at linkedin.com/in/yuchira-athukorala-301012b6 or youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
-Skills: HTML | CSS | PHP | Laravel | Java | Bootstrap | Git | JavaScript(Basic) | ReactJS | NodeJs | JQuery | RESTful API | AngularJS | MySQL | Firebase | MongoDB | 
+###Skills: 
+#### HTML | CSS | PHP | Laravel | Java | Bootstrap | Git | JavaScript(Basic) | ReactJS | NodeJs | JQuery | RESTful API | AngularJS | MySQL | Firebase | MongoDB | 
 
 <!-- 🔭 I’m currently working on My own company  -->
 🌱 I’m currently learning React JS, Node JS  
