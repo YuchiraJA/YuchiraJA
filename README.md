@@ -13,17 +13,22 @@ Here are some ideas to get you started:
 #### I am an IT Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
 I'm from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like ReatJS, NodeJS, JAVA, PHP and Laravel, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my linkedin at https://linkedin.com/in/yuchira-athukorala-301012b6 or https://youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
-### Skills: 
+ 
+
+  <h3 align="left">My Projects:</h3>
+  <h5 align="left">Bookstore Management Web Application (M.E.R.N stack):</h5>
+ <h7> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h7>
+  
+    <h5 align="left">Employee Management Web Application (Java - Spring Boot):</h5>
+ <h5 align="left"> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h5>
+ 
+  
+  ### Skills: 
 #### JAVA | PHP | Laravel | HTML/CSS | Bootstrap | Git | JavaScript(Basic) | ReactJS | NodeJs | JQuery | RESTful API | AngularJS | MySQL | Firebase | MongoDB | 
 
 <!-- 🔭 I’m currently working on My own company  -->
 🌱 I’m currently learning React JS, Node JS  
-📫 How to reach me: yuchira.athukorala@gmail.com  
-
-  <h3 align="left">My Projects:</h3>
-  <h5 align="left">MyBookstore Management Web Application (M.E.R.N stack):</h5>
- https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git
- 
+📫 How to reach me: yuchira.athukorala@gmail.com 
  
  <h3 align="left">Languages and Tools:</h3>
  
