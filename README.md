@@ -16,11 +16,9 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
  
 
   <h3 align="left">My Projects:</h3>
-  <h4 align="left">Bookstore Management Web Application (M.E.R.N stack): </h4>
-   <h5 align="left"> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h5>
+  <h4 align="left">Bookstore Management Web Application (M.E.R.N stack): </h4> <h5 align="left"> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h5>
   
- <h4 align="left">Employee Management Web Application (Java - Spring Boot): </h4>
-  <h5 align="left"> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h5>
+ <h4 align="left">Employee Management Web Application (Java - Spring Boot): </h4><h5 align="left"> https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git </h5>
  
   
   ### Skills: 
