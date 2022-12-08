@@ -35,21 +35,23 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
 
 
 
-  <h3 align="left">My Projects:</h3>
-  <h4 align="left">1. Bookstore Management Web Application (M.E.R.N stack): 
- </h4> <h5 align="center"> [Github Repo Link](https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git) </h5>
+ <h3 align="left">My Projects:</h3>
+ 
+ <h4 align="left">1. Bookstore Management Web Application (M.E.R.N stack): 
+ </h4> 
+ <h5 align="center"> [Github Repo Link](https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git) </h5>
   
  <h4 align="left">2. Employee Management BACKEND Web Application (Java - Spring Boot): 
- </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Backend---SpringBoot.git) </h5>
+ </h4>
+ <h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Backend---SpringBoot.git) </h5>
  
   <h4 align="left">3. Employee Management FRONTEND Web Application (React): 
  </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
  
  
- <h4 align="left">4. ElectroGrid Customer Management (Frontend & Backend): </h4>
-  <h5 align="left"> Frontend -
-<h5 align="center"> View:- CSS, Bootstrap (optional), Form and Grid UI design pattern] &nbsp;
-Client-components: jQuery, Ajax for DC. &nbsp;
+ <h4 align="left">4. ElectroGrid Customer Management (Frontend & Backend): </h4> <h5 align="left"> Frontend -
+<h5 align="center"> [View:- CSS, Bootstrap (optional)], [Form and Grid UI design pattern]] &nbsp;
+[Client-components: jQuery, Ajax for DC.] &nbsp;
  Backend -&nbsp;
  RESTful web services: Java – JAX-RS (Jersey) on Tomcat&nbsp;
  Database - MySQL </h4> </h5>
