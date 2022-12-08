@@ -49,15 +49,17 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
  </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
  
  
- <h4 align="left">4. ElectroGrid Customer Management (Frontend & Backend): </h4> <h5 align="left"> 
- Frontend -
+ <h4 align="left">4. ElectroGrid Customer Management (Frontend & Backend): </h4> 
+ <h5 align="left"> 
+ Frontend - </h5>
 <h5 align="center">
 [View:- CSS, Bootstrap (optional)], [Form and Grid UI design pattern]] &nbsp;
 [Client-components: jQuery, Ajax for DC.] &nbsp; 
  </h5>
 
- Backend -
-  <h5 align="center">
+ <h5 align="left"> 
+ Backend -  </h5>
+ <h5 align="center">
  RESTful web services: Java – JAX-RS (Jersey) on Tomcat&nbsp;
  Database - MySQL  </h5>
  
