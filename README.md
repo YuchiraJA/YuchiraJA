@@ -45,7 +45,7 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
  </h4>
  <h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Backend---SpringBoot.git) </h5>
  
-  <h4 align="left">3. Employee Management FRONTEND Web Application (React): 
+ <h4 align="left">3. Employee Management FRONTEND Web Application (React): 
  </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
  
  
@@ -53,7 +53,7 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
  <h5 align="left"> 
  Frontend - </h5>
 <h5 align="center">
-[View:- CSS, Bootstrap (optional)], [Form and Grid UI design pattern]] &nbsp;
+View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
 [Client-components: jQuery, Ajax for DC.] &nbsp; 
  </h5>
 
