@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Hi there 👋, I'm Yuchira Athukorala
-#### I am an IT Undergraduate at SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
+#### I am an Undergraduate at Faculty of Computing in SLIIT | Web Developer | Designer | Problem Solver | Tech Related YouTuber | 
 I'm from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like ReatJS, NodeJS, JAVA, PHP and Laravel, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my linkedin at https://linkedin.com/in/yuchira-athukorala-301012b6 or https://youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
  
