@@ -92,7 +92,7 @@ View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
  
  <hr>
   
-  ### Skills: 
+<!--   ### Skills: 
 #### JAVA | PHP | Laravel | HTML/CSS | Bootstrap | Git | JavaScript(Basic) | ReactJS | NodeJs | JQuery | RESTful API | AngularJS | MySQL | Firebase | MongoDB | 
 
 <!-- 🔭 I’m currently working on My own company  -->
@@ -107,7 +107,9 @@ View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
 
 
 <hr>
- 
+  -->
+  -->
+  -->
 <!--  
  
 
