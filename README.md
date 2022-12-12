@@ -37,15 +37,15 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
 
  <h3 align="left">My Projects:</h3>
  
- <h4 align="left">1. Bookstore Management Web Application (M.E.R.N stack): 
+ <h4 align="left">1. Bookstore Management Web Application (M.E.R.N stack - Node JS | Express JS | React JS | MongoDB | ExpressJS): 
  </h4> 
  <h5 align="center"> [Github Repo Link](https://github.com/YuchiraJA/ITPM-Project---Book-Store-Management-System.git) </h5>
   
- <h4 align="left">2. Employee Management BACKEND Web Application (Java - Spring Boot): 
+ <h4 align="left">2. Employee Management BACKEND Web Application (Java - Spring Boot | MySQL): 
  </h4>
  <h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Backend---SpringBoot.git) </h5>
  
- <h4 align="left">3. Employee Management FRONTEND Web Application (React): 
+ <h4 align="left">3. Employee Management FRONTEND Web Application (ReactJS): 
  </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
  
  
@@ -56,7 +56,6 @@ I'm from Sri Lanka, and I do content on Design and Development. I really enjoy l
 View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
 [Client-components: jQuery, Ajax for DC.] &nbsp; 
  </h5>
-
  <h5 align="left"> 
  Backend -  </h5>
  <h5 align="center">
@@ -64,6 +63,31 @@ View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
  Database - MySQL  </h5>
  
 <h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/IT20029968-ElectroGrid_CustomerManagement.git) </h5>
+ 
+ 
+  <h4 align="left">5. PAF-Project - EletroGrid - Backend (RESTful web services: Java – JAX-RS |  MySQL):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/PAF-Group-Project---ElectroGrid.git) </h5>
+ 
+  <h4 align="left">6. Institute Management Web Application (Laravel | MySQL | HTML | Bootstrap | JS):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Institute-Management-Web-Application.git) </h5>
+ 
+ 
+  <h4 align="left">7. Daily Task Application (Laravel | MySQL | Bootstrap):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
+ 
+ <h4 align="left">8. e-Gurur Android App (Java | Firebase):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/Rajith-Singh/eGuru---MAD-Project.git) </h5>
+ 
+ <h4 align="left">9. Pharmacy Management Web Application (Java - Servlet | MySQL | HTML | CSS):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Online-Pharmacy-System---OOP-Project.git) </h5>
+ 
+ <h4 align="left">10. Hotel Management Web Application (PHP | MYSQL | HTML | CSS | JS):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Hotel-Management-System---IWT-Project.git) </h5>
+ 
+ <h4 align="left">11. E-Advertisment Web Application Design (Figma)(High Feasibility Prototyping):
+ </h4><h5 align="center"> [Github Repo link](https://github.com/YuchiraJA/Employee-Management---Frontend---React.git) </h5>
+ 
+ 
  
  
  <hr>
