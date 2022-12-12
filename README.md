@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 I'm from Sri Lanka, and I do content on Design and Development. I really enjoy learning lanuages and frameworks like ReatJS, NodeJS, JAVA, PHP and Laravel, as well as work in Wordpress. I also enjoy wireframing, UI, UX and design in general. You can check out my linkedin at https://linkedin.com/in/yuchira-athukorala-301012b6 or https://youtube.com/channel/UCahwkZPInW6phAxhQH1Lk6Q.
 
  
- <h3 align="center">SkillLanguages and Tools:</h3>
+ <h3 align="center">Skills, Programming Languages, Frameworks and Technologies:</h3>
  
  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
