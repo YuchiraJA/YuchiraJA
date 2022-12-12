@@ -96,6 +96,8 @@ View:- CSS, Bootstrap (optional), [Form and Grid UI design pattern] &nbsp;
 #### JAVA | PHP | Laravel | HTML/CSS | Bootstrap | Git | JavaScript(Basic) | ReactJS | NodeJs | JQuery | RESTful API | AngularJS | MySQL | Firebase | MongoDB | 
 
 <!-- 🔭 I’m currently working on My own company  -->
+ 
+ <!--
 🌱 I’m currently learning React JS, Node JS  
 📫 How to reach me: yuchira.athukorala@gmail.com 
  
